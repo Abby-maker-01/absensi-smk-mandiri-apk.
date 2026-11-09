@@ -1,0 +1,15 @@
+{
+  "name": "absensi-smk-mandiri-haurgeulis",
+  "version": "1.0.1",
+  "private": true,
+  "scripts": {
+    "build": "echo Web assets are in www"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}
